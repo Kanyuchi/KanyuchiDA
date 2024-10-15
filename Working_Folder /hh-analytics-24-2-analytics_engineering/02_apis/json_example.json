@@ -1,0 +1,30 @@
+[
+	{
+		"type": "stop",
+		"id": "900013101",
+		"name": "U Moritzplatz (Berlin)",
+		"location": {
+			"type": "location",
+			"id": "900013101",
+			"latitude": 52.503737,
+			"longitude": 13.410944
+		},
+		"products": {
+			"suburban": false,
+			"subway": true,
+			"tram": false,
+			"bus": true,
+			"ferry": false,
+			"express": false,
+			"regional": false
+		},
+		"stationDHID": "de:11000:900013101"
+	},
+	{
+		"type": "location",
+		"id": null,
+		"latitude": 51.630893,
+		"longitude": 13.706222,
+		"address": "03238 Finsterwalde, Moritzplatz"
+	}
+]
